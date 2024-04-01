@@ -15,14 +15,15 @@ openjdk version "17.0.2" 2022-01-18
 ```
 
 ### Run in Intellij
-1. Open Intellij, open the project by choosing File -> Open... -> .../InsightFinderCodingAssessment
-2. Find and run `src/main/java/Main.java`
-3. Run unit tests using `mvn test`
+1. Clone or download the project from github
+2. Open Intellij, open the project by choosing File -> Open... -> .../InsightFinderAssessment
+3. Find and run `src/main/java/Main.java`
+4. Run unit tests using `mvn test`
 
 ### Run the jar file
 Run the jar file in your terminal with command
 ```shell
-java -cp <path to the jar file>/InsightFinderAssessment/InsightFinderCodingAssessment-1.0-SNAPSHOT.jar  Main
+java -cp <path to the jar file>/InsightFinderCodingAssessment-1.0-SNAPSHOT.jar  Main
 ```
 
 ### Test Plan
