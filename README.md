@@ -7,13 +7,13 @@ The sample error message files the program reads are in `src/main/resources`
 
 ## Running Step
 ### Environment Setup
-Download and install Java 17
+Download and install Java 17. 
 You can check your java version by
 ```shell
 ➜  ~ java -version                                                                                                               
 openjdk version "17.0.2" 2022-01-18
 ```
-[README.md](..%2F..%2FDownloads%2FInsightFinderAssessment%2FREADME.md)
+
 ### Run in Intellij
 1. Open Intellij, open the project by choosing File -> Open.../.../InsightFinderCodingAssessment
 2. Find and run `src/main/java/Main.java`
