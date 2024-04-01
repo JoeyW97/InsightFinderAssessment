@@ -1,7 +1,7 @@
 # InsightFinder Coding Assessment
 
 ## Project Overview
-This project provides a CLI to takes a keyword from user, searches and returns error messages contain the keyword. Matched keyword is shown in uppercase.
+This project provides a CLI to take a keyword from user, search and return error messages contain the keyword. Matched keyword is shown in uppercase.
 
 The sample error message files the program reads are in `src/main/resources`
 
