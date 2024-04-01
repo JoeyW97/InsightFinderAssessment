@@ -15,7 +15,7 @@ openjdk version "17.0.2" 2022-01-18
 ```
 
 ### Run in Intellij
-1. Open Intellij, open the project by choosing File -> Open.../.../InsightFinderCodingAssessment
+1. Open Intellij, open the project by choosing File -> Open... -> .../InsightFinderCodingAssessment
 2. Find and run `src/main/java/Main.java`
 3. Run unit tests using `mvn test`
 
