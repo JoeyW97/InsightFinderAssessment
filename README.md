@@ -55,3 +55,6 @@ keyword='warn'           : {matchedMessageCount: 0, keywordOccurrence, 0, elapse
 1. This program reads error message files concurrently. The intent is to speed up the file reading. However, this optimization may not work for the example files. Since the example files are small, the overhead of managing multiple threads may outweigh the benefits of parallelism. Multithreading can be more beneficial if we want to ingest multiple large files.
 2. The error messages are stored in memory, we can store the messages in to database in the future for durability and scalability.
 3. Due to the limit of time, no complex model and user input validation are used, which should be considered in real-world development.
+
+# Contact
+If you have any question, please reach out to `joey.wang9798@gmail.com`
