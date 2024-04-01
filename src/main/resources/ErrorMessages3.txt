@@ -1,0 +1,10 @@
+NullPointerException: null reference
+AssertionError: assertion failed
+ClassCastException: incompatible types
+IllegalArgumentException: invalid argument
+UnsupportedOperationException: operation not supported
+NumberFormatException: invalid number format
+InterruptedException: thread interrupted
+ClassNotFoundException: class not found
+NoSuchMethodException: method not found
+SecurityException: security violation

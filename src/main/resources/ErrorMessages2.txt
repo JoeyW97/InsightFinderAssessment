@@ -1,0 +1,10 @@
+NoSuchFieldError: field not found
+IllegalStateException: invalid state
+UnsupportedOperationException: operation not supported
+IllegalArgumentException: illegal argument
+NumberFormatException: invalid number format
+InterruptedException: thread interrupted
+ClassNotFoundException: class not found
+NoSuchAlgorithmException: algorithm not found
+UnsupportedOperationException: method not implemented
+SecurityException: security violation

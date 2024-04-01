@@ -1,0 +1,10 @@
+Syntax error on token ";", { expected after this token
+Cannot find symbol variable
+Incompatible types: int cannot be converted to String
+ClassCastException: cannot cast to
+NullPointerException
+ArrayIndexOutOfBoundsException
+ArithmeticException: divide by zero
+FileNotFoundException
+IOException: error reading input
+NoSuchMethodError: method not found
